@@ -39,7 +39,7 @@ struct ContentView: View {
                     }
                     Spacer()
                     VStack{
-                        Text("Commnad Points")
+                        Text("Command Points")
                             .font(.title)
                         HStack{
                             VStack{
